@@ -29,6 +29,20 @@ en:
     create:
       flash:
         welcome: "Welcome to Same App"
+    update:
+      flash:
+        profile_updated: "Profile updated"
+    edit:
+      flash:
+        please_login: "Please log in"
+    destroy:
+      flash:
+        user_deleted: User deleted
+    index:
+      all_users: "All Users"
+    user:
+      delete: "Delete"
+      you_sure: "You sure?"
   static_pages:
     home:
       hello_app: "Welcome to My App"
@@ -51,3 +65,10 @@ en:
       log_out: "Log out"
       log_in: "Log in"
       account: "Account"
+  views:
+    user:
+      index:
+        all_users: "All Users"
+      user:
+        delete: "Delete"
+        you_sure: "You sure?"
